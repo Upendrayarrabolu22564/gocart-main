@@ -32,18 +32,18 @@ const Footer = () => {
         {
             title: "CONTACT",
             links: [
-                { text: "+1-212-456-7890", path: '/', icon: MailIcon },
-                { text: "contact@example.com", path: '/', icon: PhoneIcon },
-                { text: "794 Francisco, 94102", path: '/', icon: MapPinIcon }
+                { text: "+91 7569309749", path: '/', icon: MailIcon },
+                { text: "upendrayarrabolu@gmail.com", path: '/', icon: PhoneIcon },
+                { text: "Maturu, 507203", path: '/', icon: MapPinIcon }
             ]
         }
     ];
 
     const socialIcons = [
         { icon: FacebookIcon, link: "https://www.facebook.com" },
-        { icon: InstagramIcon, link: "https://www.instagram.com" },
+        { icon: InstagramIcon, link: "https://www.instagram.com/upndr_____82?igsh=MXZjNTZiajJpbzRreA==" },
         { icon: TwitterIcon, link: "https://twitter.com" },
-        { icon: LinkedinIcon, link: "https://www.linkedin.com" },
+        { icon: LinkedinIcon, link: "¯ https://www.linkedin.com/in/upendra-naidu-y-992007349" },
     ]
 
     return (
